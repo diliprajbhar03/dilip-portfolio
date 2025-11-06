@@ -1,0 +1,104 @@
+{
+  "name": "Dilip Rajbhar",
+  "role": "Full Stack Developer & Data Scientist",
+  "location": "Navi Mumbai, India",
+  "about": "Aspiring Web Developer and Data Scientist with hands-on experience in building responsive web applications and analyzing data-driven insights. Passionate about developing scalable digital solutions and eager to contribute to innovative projects while continuously learning new technologies.",
+  "email": "diliprajbhar9022@gmail.com",
+  "phone": "+91 9372868875",
+  "skills": [
+    {
+      "name": "HTML & CSS",
+      "level": 90
+    },
+    {
+      "name": "JavaScript",
+      "level": 85
+    },
+    {
+      "name": "React.js",
+      "level": 80
+    },
+    {
+      "name": "Node.js",
+      "level": 75
+    },
+    {
+      "name": "Express.js",
+      "level": 75
+    },
+    {
+      "name": "MongoDB",
+      "level": 70
+    },
+    {
+      "name": "SQL",
+      "level": 70
+    },
+    {
+      "name": "Python",
+      "level": 70
+    },
+    {
+      "name": "Java",
+      "level": 60
+    },
+    {
+      "name": "C",
+      "level": 90
+    },
+    {
+      "name": "C++",
+      "level": 90
+    },
+    {
+      "name": "Data Analytics",
+      "level": 70
+    },
+    {
+      "name": "Data Science",
+      "level": 70
+    }
+  ],
+  "projects": [
+    {
+      "title": "NaviRide \u2013 Tracking and Ticket Booking App",
+      "summary": "A full-stack web application for bus tracking, route management and ticket booking in Navi Mumbai. Built with React, Node.js, Express and MongoDB. Hosted on Netlify.",
+      "link": "https://naviride.netlify.app/"
+    },
+    {
+      "title": "Tashitech \u2013 IT Services Website",
+      "summary": "Official website for an IT services company with responsive design, contact forms and performance optimizations. Built with React and Node.js.",
+      "link": "https://tashitech.in/"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Wayeva Innovations",
+      "role": "Web Development Intern",
+      "period": "Apr 2025 - Jun 2025",
+      "details": "Built and optimized responsive websites; integrated APIs and collaborated with designers."
+    },
+    {
+      "company": "The Windmill Coffee House And Bistro",
+      "role": "Senior Barista",
+      "period": "Nov 2023 - Present",
+      "details": "Supervised operations, trained staff, and maintained high service standards."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Manipal University Jaipur",
+      "degree": "MCA",
+      "year": "2025 - 2027"
+    },
+    {
+      "institution": "CSMU",
+      "degree": "BCA (CS/IT)",
+      "year": "2022 - 2025"
+    }
+  ],
+  "social": {
+    "github": "https://github.com/diliprajbhar03",
+    "linkedin": "https://www.linkedin.com/in/dilip-rajbhar-412279294/"
+  }
+}
